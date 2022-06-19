@@ -46,3 +46,15 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+
+## Submission Note
+
+**Elastic Beanstalk URL**
+
+[http://udagram-node-dev.us-east-1.elasticbeanstalk.com](http://udagram-node-dev.us-east-1.elasticbeanstalk.com)
+
+
+**Elastic Beanstalk URL With Test Image URL**
+
+[http://udagram-node-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://picsum.photos/200/300](http://udagram-node-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://picsum.photos/200/300)
